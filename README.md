@@ -21,4 +21,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact Information
 Maintainer: Aditya Nikam 
-Email: adityanikam9502@gmail.com
+Email: adityanikam033@gmail.com
