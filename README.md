@@ -8,9 +8,19 @@ Advanced Analysis: Clustering, Correlation, and Anomaly Detection
 Interactive and Static Visualizations
 Comprehensive Documentation
 
+# Installation
+To run this project, clone the repository and install the required dependencies.
+git clone https://github.com/adityaanikam/LosAngeles-Traffic-Prediction.git
 
+# Deployment
+The project can be deployed by downloading and running the provided html file.
 
-## Results
+- Steps:
+Download html file from the repository.
+Open the file in a web browser to view the traffic predictions.
+# Note: The traffic_map.html file works optimally on high-performance machines due to its interactive and resource-intensive visualization features.
+
+# Results
 The analysis revealed significant traffic congestion in certain areas of Los Angeles, particularly during peak hours. Clustering analysis identified key intersections with high incident rates. The visualizations provide clear insights into the traffic patterns.
 
 ## Contributing
